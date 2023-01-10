@@ -6,3 +6,11 @@ pillow
 Django
 psycopg2-binary
 psycopg2
+requests
+bs4
+pandas
+openpyxl
+xlsxwriter
+xlrd
+aioschedule
+yookassa
